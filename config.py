@@ -1,0 +1,23 @@
+VIDEOS = {
+    '1-v': {'title': 'Курс по Ассемблеру 🖥️', 'url': 'https://www.youtube.com/watch?v=tZati2GPUXA'},
+    '2-v': {'title': 'Курс по C++ 🔧', 'url': 'https://www.youtube.com/watch?v=kRcbYLK3OnQ&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '3-v': {'title': 'Курс по C 🧩', 'url': 'https://www.youtube.com/watch?v=d971m08_5Zo&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz'},
+    '4-v': {'title': 'Курс по Java ☕', 'url': 'https://www.youtube.com/watch?v=FR7vWoCWOMM&list=PLw265NhvhLXHptSyZ93dFd_7AoPnJTF1T'},
+    '5-v': {'title': 'Курс по Python 🐍', 'url': 'https://www.youtube.com/watch?v=frnJ6g9xOqI&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '6-v': {'title': 'Курс по JavaScript 📜', 'url': 'https://www.youtube.com/watch?v=U9F1gGzG4Jw&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '7-v': {'title': 'Курс по Go 🐹', 'url': 'https://www.youtube.com/watch?v=Qp8tQ4g3j7E&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '8-v': {'title': 'Курс по Swift 🍎', 'url': 'https://www.youtube.com/watch?v=5G2ZlX5J8gI&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '9-v': {'title': 'Курс по Kotlin 🤖', 'url': 'https://www.youtube.com/watch?v=F9UC9DYu6tU&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '10-v': {'title': 'Курс по Ruby 💎', 'url': 'https://www.youtube.com/watch?v=t_ispmWmdjY&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '11-v': {'title': 'Курс по SQL 🗃️', 'url': 'https://www.youtube.com/watch?v=frnJ6g9xOqI&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r'},
+    '12-v': {'title': 'Курс по Rust 🦀', 'url': 'https://www.youtube.com/watch?v=zF34dRivLOw'},
+    '13-v': {'title': 'Курс по PHP 🐘', 'url': 'https://www.youtube.com/watch?v=OK_JCtrrv-c'},
+    '14-v': {'title': 'Курс по Perl 🐪', 'url': 'https://www.youtube.com/watch?v=1KEQ7VyBoNU'},
+    '15-v': {'title': 'Курс по Scala 🐱‍👤', 'url': 'https://www.youtube.com/watch?v=DzFt0YkZoLI'},
+    '16-v': {'title': 'Курс по Haskell 🔮', 'url': 'https://www.youtube.com/watch?v=02_H3LjqMr8'},
+    '17-v': {'title': 'Курс по Lua 🌙', 'url': 'https://www.youtube.com/watch?v=iMacxv7hxPQ'},
+    '18-v': {'title': 'Курс по Dart 🎯', 'url': 'https://www.youtube.com/watch?v=Ej_Pcr4uC2Q'},
+    '19-v': {'title': 'Курс по Objective-C 🍏', 'url': 'https://www.youtube.com/watch?v=ZQF9PZqNdGQ'},
+    '20-v': {'title': 'Курс по MATLAB 📈', 'url': 'https://www.youtube.com/watch?v=Z7uBqRDjpYQ'},
+    '21-v': {'title': 'Самые Лучшие Курсы в Провеб ✅', 'url': 'https://proweb.uz/ru'}
+}
